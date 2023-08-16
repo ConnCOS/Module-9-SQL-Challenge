@@ -5,3 +5,4 @@ The challenge encompasses performing data modeling, data engineering, and data a
 The six CSV files were uploaded into tables that were part of a database accessed through pg Admin 4.
 Eight queries were run; screenshots of results are added to the images file.
 A .png of the diagram of the ERD created through Quick DBD is also in the image file.
+Instructor Steven Green assisted with question on foreign key and sequencing of tables; ASK BCS query #271607 with Luna Zhang2 assisted with proper structure of foreign keys in pgAdmin. A GitHub file from shreymukh provided the final clue on how to structure the date query within the year column for the 1986 ask.
